@@ -5,13 +5,13 @@ This repository contains my submission for Task 1 of the Tata Data Analytics Vir
  Task Objective
 To perform data quality assessment and identify issues in the dataset such as:
 
-Missing values
-Inconsistent entries
-Outlier detection
-Basic statistical summaries
+1)Missing values
+2)Inconsistent entries
+3)Outlier detection
+4)Basic statistical summaries
 
 Tools & Platform Used
 
-GNI (Generative Natural Intelligence) platform
-Prompt-based EDA
-Dataset uploaded in CSV format
+1)GNI (Generative Natural Intelligence) platform
+2)Prompt-based EDA
+3)Dataset uploaded in CSV format
